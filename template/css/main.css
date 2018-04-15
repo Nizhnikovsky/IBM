@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700);
+@import url(http://fonts.googleapis.com/css?family=Abel);
+
+html,body{
+    margin: 10px;
+    position: relative;
+    background-size: cover;
+}
+body {
+    padding-top: 5rem;
+    background-color: #5bc0de;
+}
+.main{
+    background-color: white;
+}
